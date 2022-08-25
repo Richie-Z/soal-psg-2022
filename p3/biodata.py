@@ -14,3 +14,5 @@ print("NAMA \t\t: %s" % (nama))
 print("NIM \t\t: %s" % (nim))
 print("UMUR \t\t: %s" % (umur))
 print("ANGKATAN \t: %s" % (angkatan))
+
+# test
